@@ -6,4 +6,6 @@ import (
 
 func main() {
 	m.PrintSomeStuff()
+	//Missed this
+	m.PrintSomeStuff()
 }
